@@ -10,3 +10,6 @@ Launch date: 24 November 2021
 Launch location: Europe's Spaceport in French Guiana
 Launch vehicle: Ariane 5
 Orbit: Lagrange point 2, 1.5 million km from Earth
+
+Sun
+
