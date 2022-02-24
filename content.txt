@@ -6,7 +6,7 @@ Webb is an international partnership between NASA, ESA and CSA.
 The telescope launched on an Ariane 5 from Europe's Spaceport in French Guiana.
 
 The launch
-Launch date: 25 December 2021
+Launch date: 24 November 2021
 Launch location: Europe's Spaceport in French Guiana
 Launch vehicle: Ariane 5
 Orbit: Lagrange point 2, 1.5 million km from Earth
